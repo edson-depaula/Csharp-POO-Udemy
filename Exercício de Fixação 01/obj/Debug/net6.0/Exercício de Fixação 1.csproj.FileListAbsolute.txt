@@ -1,0 +1,15 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\bin\Debug\net6.0\Exercício de Fixação 1.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\bin\Debug\net6.0\Exercício de Fixação 1.deps.json
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\bin\Debug\net6.0\Exercício de Fixação 1.runtimeconfig.json
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\bin\Debug\net6.0\Exercício de Fixação 1.dll
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\bin\Debug\net6.0\Exercício de Fixação 1.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.AssemblyInfoInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.AssemblyInfo.cs
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.dll
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\refint\Exercício de Fixação 1.dll
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\Exercício de Fixação 1.genruntimeconfig.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercício de Fixação 1\obj\Debug\net6.0\ref\Exercício de Fixação 1.dll
