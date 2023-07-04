@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\bin\Debug\Exercício 06.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\bin\Debug\Exercício 06.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\bin\Debug\Exercício 06.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\obj\Debug\Exercício 06.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\obj\Debug\Exercício 06.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\obj\Debug\Exercício 06.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\obj\Debug\Exercício 06.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\Exercícios Propostos - Parte 01\Exercício 06\obj\Debug\Exercício 06.pdb
