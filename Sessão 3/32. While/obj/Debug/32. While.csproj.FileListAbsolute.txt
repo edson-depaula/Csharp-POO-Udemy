@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\bin\Debug\_32.While.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\bin\Debug\_32.While.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\bin\Debug\_32.While.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\obj\Debug\32. While.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\obj\Debug\32. While.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\obj\Debug\32. While.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\obj\Debug\_32.While.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\32. While\obj\Debug\_32.While.pdb
