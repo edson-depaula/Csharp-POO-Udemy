@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\bin\Debug\_34.For.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\bin\Debug\_34.For.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\bin\Debug\_34.For.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\obj\Debug\34. For.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\obj\Debug\34. For.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\obj\Debug\34. For.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\obj\Debug\_34.For.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Sessão 3\34. For\obj\Debug\_34.For.pdb
