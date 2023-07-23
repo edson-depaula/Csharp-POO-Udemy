@@ -1,0 +1,16 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\bin\Debug\_38.Problema_sem_POO.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\bin\Debug\_38.Problema_sem_POO.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\bin\Debug\_38.Problema_sem_POO.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\obj\Debug\38. Problema sem POO.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\obj\Debug\38. Problema sem POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\obj\Debug\38. Problema sem POO.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\obj\Debug\_38.Problema_sem_POO.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 4\38. Problema sem POO\obj\Debug\_38.Problema_sem_POO.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\bin\Debug\_38.Problema_sem_POO.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\bin\Debug\_38.Problema_sem_POO.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\bin\Debug\_38.Problema_sem_POO.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\obj\Debug\38. Problema sem POO.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\obj\Debug\38. Problema sem POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\obj\Debug\38. Problema sem POO.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\obj\Debug\_38.Problema_sem_POO.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\39. Classe com três atributos - Triângulo\obj\Debug\_38.Problema_sem_POO.pdb
