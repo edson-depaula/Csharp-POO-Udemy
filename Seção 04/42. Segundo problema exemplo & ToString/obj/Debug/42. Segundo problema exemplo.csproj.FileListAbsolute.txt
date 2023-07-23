@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\bin\Debug\_42.Segundo_problema_exemplo.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\bin\Debug\_42.Segundo_problema_exemplo.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\bin\Debug\_42.Segundo_problema_exemplo.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\obj\Debug\42. Segundo problema exemplo.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\obj\Debug\42. Segundo problema exemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\obj\Debug\42. Segundo problema exemplo.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\obj\Debug\_42.Segundo_problema_exemplo.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\42. Segundo problema exemplo\obj\Debug\_42.Segundo_problema_exemplo.pdb
