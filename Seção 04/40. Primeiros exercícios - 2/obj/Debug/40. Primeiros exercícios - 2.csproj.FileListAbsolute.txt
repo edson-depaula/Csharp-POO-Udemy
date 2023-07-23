@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\bin\Debug\_40.Primeiros_exercícios___2.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\bin\Debug\_40.Primeiros_exercícios___2.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\bin\Debug\_40.Primeiros_exercícios___2.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\obj\Debug\40. Primeiros exercícios - 2.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\obj\Debug\40. Primeiros exercícios - 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\obj\Debug\40. Primeiros exercícios - 2.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\obj\Debug\_40.Primeiros_exercícios___2.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\40. Primeiros exercícios - 2\obj\Debug\_40.Primeiros_exercícios___2.pdb
