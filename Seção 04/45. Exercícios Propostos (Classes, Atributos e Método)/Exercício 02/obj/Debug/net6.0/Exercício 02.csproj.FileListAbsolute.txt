@@ -1,0 +1,15 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\bin\Debug\net6.0\Exercício 02.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\bin\Debug\net6.0\Exercício 02.deps.json
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\bin\Debug\net6.0\Exercício 02.runtimeconfig.json
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\bin\Debug\net6.0\Exercício 02.dll
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\bin\Debug\net6.0\Exercício 02.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.AssemblyInfoInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.AssemblyInfo.cs
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.dll
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\refint\Exercício 02.dll
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\Exercício 02.genruntimeconfig.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\45. Exercícios Propostos (Classes, Atributos e Método)\Exercício 02\obj\Debug\net6.0\ref\Exercício 02.dll
