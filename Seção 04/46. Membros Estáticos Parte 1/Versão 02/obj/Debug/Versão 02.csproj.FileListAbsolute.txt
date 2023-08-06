@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\bin\Debug\Versão 02.exe.config
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\bin\Debug\Versão 02.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\bin\Debug\Versão 02.pdb
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\obj\Debug\Versão 02.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\obj\Debug\Versão 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\obj\Debug\Versão 02.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\obj\Debug\Versão 02.exe
+C:\Users\edson\OneDrive\Documentos\Udemy\C# Orientado a Objetos\Seção 04\46. Membros Estáticos Parte 1\Versão 02\obj\Debug\Versão 02.pdb
